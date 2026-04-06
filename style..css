@@ -1,0 +1,23 @@
+body{
+background-color: rgb(131, 10, 244);
+}
+
+header{
+    background-color: black;
+    color: #7c2ac8;
+text-align: center;
+}
+
+main{
+padding: 20px;
+background: #faf;
+}
+
+footer{
+    background-color: aqua;
+    color: rgb(92, 86, 97);
+    text-align: start;
+    padding: 10px;
+
+}
+
